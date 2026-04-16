@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../TwoSumApp.Tests/TwoSumApp.Tests.csproj" />
+  <Project Path="TwoSumApp.csproj" />
+</Solution>
